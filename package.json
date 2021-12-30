@@ -1,0 +1,27 @@
+{
+  "name": "studion",
+  "version": "1.0.0",
+  "description": "Studion events ",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx live-server src/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielAssis97/Studion.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "and",
+    "JAVA",
+    "SCRIPT"
+  ],
+  "author": "Gabriel Ass",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielAssis97/Studion/issues"
+  },
+  "homepage": "https://github.com/GabrielAssis97/Studion#readme"
+}
